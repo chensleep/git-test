@@ -8,5 +8,6 @@ public class My {
         System.out.println("hellow master");
         System.out.println("hellow hot-fix");
         System.out.println("hellow push");
+         System.out.println("hellow pull");
     }
 }
